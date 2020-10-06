@@ -1,0 +1,3 @@
+INSERT INTO `userinfo` (`NAME`,`PASSWORD`,`CONTACT`,`EMAIL`,`COMMENTS`,`ISADMIN`,`ISAPPROVED`) VALUES ('admin','Test@123',123,'admin@gmail.com','',b'1',b'1');
+INSERT INTO `userinfo` (`NAME`,`PASSWORD`,`CONTACT`,`EMAIL`,`COMMENTS`,`ISADMIN`,`ISAPPROVED`) VALUES ('joel','Test@123',532,'joel@gmail.com','',b'0',b'1');
+INSERT INTO `userinfo` (`NAME`,`PASSWORD`,`CONTACT`,`EMAIL`,`COMMENTS`,`ISADMIN`,`ISAPPROVED`) VALUES ('abc','Test@123',987654,'abc@gmail.com','',NULL,b'0');
